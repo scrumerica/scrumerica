@@ -1,3 +1,5 @@
+(This is a project template)
+
 # Project Name
 
 ## Primary Visibility Link
