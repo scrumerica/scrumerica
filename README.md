@@ -1,16 +1,32 @@
-## Hi there 👋
+# Scrumerica
 
-<!--
-**scrumerica/scrumerica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Scrumerica is an open coordination experiment.
 
-Here are some ideas to get you started:
+It exists to make it easier for people to work on small, useful things together without ideology, gatekeeping, or invisible power. It is not a platform, a company, or a finished vision.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The only thing Scrumerica enforces is **transparency**.
+
+If you are working on something, others should be able to see:
+- what you are working on
+- why you think it matters
+- what you expect to produce
+- how and when it can be tested or used
+- where you are stuck, if you are stuck
+
+Scrumerica is intentionally lightweight. There is no central roadmap, no approval process, and no requirement to agree on “the right approach” before starting work.
+
+People are encouraged to:
+- fork ideas
+- disagree in public
+- build in parallel
+- abandon work honestly
+- document mistakes so others don’t repeat them
+
+This repository does not contain product code.
+
+It contains **records of work** — a registry of projects, intentions, outcomes, and lessons learned — so that coordination can happen without hierarchy.
+
+If you want to build something, start building it.
+If you want others to know, register it here.
+
+See `CONTRIBUTING.md` to understand how.
